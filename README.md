@@ -26,6 +26,8 @@ The dataset includes the following key columns:
 ### EXPLORATORY DATA ANALYSIS
 ---
 ### EXCEL:
+---
+
 ### Objectives: this project was designed to address the following analysis goals:
 - To Perform an initial exploration of the sales data. Using pivot tables to summarize 
 total sales by product, region, and month.
