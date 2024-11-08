@@ -45,7 +45,7 @@ insight such as top-selling products, regional performance and monthly sales tre
 ### EXCEL:
 ---
 
-### Objectives: this project was designed to address the following analysis goals:
+### Objectives: Using The Excel  to address the following analysis goals:
 - To Perform an initial exploration of the sales data. Using pivot tables to summarize 
 total sales by product, region, and month.
 - Using Excel formulas to calculate metrics such as average sales per product and 
@@ -65,5 +65,30 @@ Using pivot table to summarize and filter the data for easier interpretation and
 
 ### STRUCTURED QUERY (SQL)
 ---
+
+### Objectives: To Write queries to extract key insights based on the following questions. 
+- retrieve the total sales for each product category.
+-  find the number of sales transactions in each region.
+-  find the highest-selling product by total sales value.
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+- find the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quater
+
+### DATA VISUALIZATION
+1. ![sql total product](https://github.com/user-attachments/assets/d350f4af-427e-4c40-a03e-547a34463308)
+2. ![sql region](https://github.com/user-attachments/assets/c4afa4e5-9de6-4f0a-8ef7-f28915ee457b)
+3. ![highest selling product](https://github.com/user-attachments/assets/23ca6816-a7c6-4652-ab7e-98a2107823a5)
+4. ![total revenue per product](https://github.com/user-attachments/assets/f8337955-c939-4aa2-b8ec-f9b6b8607385)
+5. ![monthly sales](https://github.com/user-attachments/assets/36c684bc-cb79-4efb-b9c4-c854e61c5642)
+6. ![top 5 customer](https://github.com/user-attachments/assets/d684597b-5b4c-4884-99be-2e1a21d75c8e)
+7. ![product with no sales](https://github.com/user-attachments/assets/b173bcc2-5834-4235-a54c-ab3384fdd9cc)
+
+
+
+
+
+
 
 
