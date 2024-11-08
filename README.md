@@ -11,6 +11,8 @@
 [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
 [EXCEL](#excel)
+
+[STRUCTURED QUERY (SQL)](#structured-query-(sql))
  
 ### PROJECT TOPIC
 ---
