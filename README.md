@@ -16,4 +16,22 @@ The dataset includes the following key columns:
 1. 
 
 ### TOOLS USED
-1. MS EXCEL 
+- MS EXCEL  [Download here](https://www.microsoft.com)
+  1. data cleaning,
+  2. analysis and
+  3. visualization
+- SQL for querying of Data
+- PowerBi for visualization
+
+### EXPLORATORY DATA ANALYSIS
+---
+### EXCEL:
+### Objectives: this project was designed to address the following analysis goals:
+- To Perform an initial exploration of the sales data. Using pivot tables to summarize 
+total sales by product, region, and month.
+- Using Excel formulas to calculate metrics such as average sales per product and 
+total revenue by region.
+- To Create any other interesting report
+
+### DATA ANALYSIS:
+Formula used:
