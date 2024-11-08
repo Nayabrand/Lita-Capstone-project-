@@ -39,6 +39,9 @@ The dataset includes the following key columns:
 
 ### EXPLORATORY DATA ANALYSIS
 ---
+Using Ms Excel, Structured querry to analyse the sales performance of a retail shop by exploring sales data to uncover key 
+insight such as top-selling products, regional performance and monthly sales trends and using PowerBi to highlight these findings.
+
 ### EXCEL:
 ---
 
