@@ -34,4 +34,14 @@ total revenue by region.
 - To Create any other interesting report
 
 ### DATA ANALYSIS:
-Formula used:
+Formula used
+
+
+### DATA VISUALIZATION
+Using pivot table to summarize and filter the data for easier interpretation and charts to represent the key insight.
+
+![EXCEL PIVOT ASSIGNMENT](https://github.com/user-attachments/assets/1740d4d6-9a2e-4d56-b891-06aa1f1bd445)
+
+![EXCEL CHART](https://github.com/user-attachments/assets/6b5e431e-29c1-4665-91a3-2a3a3412edb1)
+
+
