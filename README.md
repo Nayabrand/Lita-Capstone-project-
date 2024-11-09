@@ -12,7 +12,7 @@
 
 [EXCEL](#excel)
 
-[STRUCTURED QUERY](#structured-query-)
+[STRUCTURED QUERY](#structured-query)
  
 ### PROJECT TOPIC
 ---
