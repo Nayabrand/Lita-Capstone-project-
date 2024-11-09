@@ -12,7 +12,7 @@
 
 [EXCEL](#excel)
 
-[STRUCTURED QUERY (SQL)](#structured-query-(sql))
+[STRUCTURED QUERY](#structured-query-)
  
 ### PROJECT TOPIC
 ---
@@ -65,7 +65,7 @@ Using pivot table to summarize and filter the data for easier interpretation and
 
 ![EXCEL CHART](https://github.com/user-attachments/assets/6b5e431e-29c1-4665-91a3-2a3a3412edb1)
 
-### STRUCTURED QUERY (SQL)
+### STRUCTURED QUERY
 ---
 
 ### Objectives: To Write queries to extract key insights based on the following questions. 
