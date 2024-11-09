@@ -87,6 +87,8 @@ Using pivot table to summarize and filter the data for easier interpretation and
 6. ![top 5 customer](https://github.com/user-attachments/assets/d684597b-5b4c-4884-99be-2e1a21d75c8e)
 7. ![product with no sales](https://github.com/user-attachments/assets/b173bcc2-5834-4235-a54c-ab3384fdd9cc)
 
+### POWERBI
+
 
 
 
